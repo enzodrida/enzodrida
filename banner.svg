@@ -1,0 +1,92 @@
+<svg width="854" height="200" viewBox="0 0 854 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">profile</title>
+  <desc id="desc">Banner GitHub.</desc>
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgb(30, 40, 48)" />
+      <stop offset="50%" stop-color="rgb(60, 40, 48)" />
+      <stop offset="100%" stop-color="rgb(140, 40, 48)" />
+    </linearGradient>
+  </defs>
+  <!--No arquivo banner.svg, você pode editar:
+
+  Texto: altere meu nome pelo seu dentro da tag <text>.
+  Cores do degradê: altere os valores stop-color.
+  Cor do texto: altere fill: #ffffff` na classe `.text`.
+  Tamanho do texto: altere `font-size: 50px`.
+  Fonte e peso: altere font-family e font-weight na classe .text.
+  Transparência das ondas: altere opacity: 0.4 na classe .wave.
+  Velocidade da animação: altere `dur="20s"`. Um valor menor deixa a animação mais rápida; um valor maior deixa mais lenta.
+  Tamanho do banner: altere `width`, `height` e o `viewBox` com cuidado para manter as proporções.-->
+  <style>
+    .text {
+      font-size: 36px;
+      font-weight: 700;
+      font-family: "Cascadia Code", monospace;
+      fill: rgb(171, 178, 184);
+    }
+
+    .letter {
+      opacity: 0;
+      animation: fadeIn 0.12s linear forwards;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+    .wave {
+      fill: url(#linear);
+      opacity: 0.4;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+  </style>
+
+  <path class="wave" d="M0 0 L0 120 Q213.5 160 427 130 T854 155 L854 0 Z">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 0 L0 120 Q213.5 160 427 130 T854 155 L854 0 Z;
+              M0 0 L0 145 Q213.5 160 427 140 T854 130 L854 0 Z;
+              M0 0 L0 165 Q213.5 135 427 165 T854 130 L854 0 Z;
+              M0 0 L0 120 Q213.5 160 427 130 T854 155 L854 0 Z" />
+  </path>
+
+  <path class="wave" d="M0 0 L0 135 Q213.5 180 427 150 T854 160 L854 0 Z">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      begin="-10s"
+      keyTimes="0;0.333;0.667;1"
+      calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 0 L0 135 Q213.5 180 427 150 T854 160 L854 0 Z;
+              M0 0 L0 150 Q213.5 120 427 120 T854 140 L854 0 Z;
+              M0 0 L0 145 Q213.5 125 427 150 T854 165 L854 0 Z;
+              M0 0 L0 135 Q213.5 180 427 150 T854 160 L854 0 Z" />
+  </path>
+
+  <text
+  x="50%"
+  y="38%"
+  text-anchor="middle"
+  dominant-baseline="middle"
+  class="text"
+>
+<tspan class="letter" style="animation-delay:0s">E</tspan><tspan class="letter" style="animation-delay:0.12s">n</tspan><tspan class="letter" style="animation-delay:0.24s">z</tspan><tspan class="letter" style="animation-delay:0.36s">o</tspan><tspan class="letter" style="animation-delay:0.48s">&#160;</tspan><tspan class="letter" style="animation-delay:0.60s">C</tspan><tspan class="letter" style="animation-delay:0.72s">a</tspan><tspan class="letter" style="animation-delay:0.84s">m</tspan><tspan class="letter" style="animation-delay:0.96s">a</tspan><tspan class="letter" style="animation-delay:1.08s">r</tspan><tspan class="letter" style="animation-delay:1.20s">g</tspan><tspan class="letter" style="animation-delay:1.32s">o</tspan><tspan class="letter" style="animation-delay:1.44s">&#160;</tspan>
+
+</text>
+</svg>
