@@ -1,2 +1,2 @@
 ![Meu banner](banner.svg)
-![Trofeus](https://github-profile-trophy.vercel.app/?enzodrida=ryo-ma&theme=dark_lover)
+![Trofeus](https://trophygithubreadmelang.cybee.dpdns.org/?username=enzodrida&theme=dark_lover)
