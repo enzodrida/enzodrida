@@ -32,5 +32,5 @@ Os projetos estão em evolução, assim como meu aprendizado.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="[https://platane.github.io/snk/](https://platane.github.io/snk/)" alt="Snake Animation" />
 </p>
