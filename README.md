@@ -1,5 +1,4 @@
 ![Meu banner](banner.svg)
-
 ### Quem sou eu ?
 
 Desenvolvedor de software em desenvolvimento, desenvolvendo minha escrita de código de uma forma limpa e no tempo livre crio projetos funcionais com intuito de desenvolver os conhecimentos que eu já tenho e evoluir focado na criação de soluções eficientes. Aprendizado contínuo, desenvolvendo minhas habilidades para novas oportunidades e + projetos desafiadores kkkk, sempre agregarei valor a sua equipe.
