@@ -1,7 +1,6 @@
 ![Meu banner](banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans+Unicode&size=26&duration=7000&pause=50&color=8C2830&width=435&height=20&lines=Desenvolvedor+;HTML+%7C+CSS+%7C+C;Conhecimento+dia+a+dia&groups=1%2C1%2C1)](https://git.io/typing-svg)
-
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Desenvolvedor+em+desenvolvimento%3BHTML+%7C+CSS+%7C+C%3BConhecimento+diar%C3%ADo&layout=terminal&color=8c2830)](https://github.com/dhanushnehru/ScribeSVG)
 
 ### Hard Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,css,git,html,ps,vscode,windows&perline=5&theme=dark)](https://skillicons.dev)
