@@ -31,6 +31,7 @@ Os projetos estão em evolução, assim como meu aprendizado.
 
 ---
 
-<p align="center">
-  <img src="[https://platane.github.io/snk/](https://platane.github.io/snk/)" alt="Snake Animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
