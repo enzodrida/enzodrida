@@ -7,8 +7,9 @@ Desenvolvedor de software em desenvolvimento, desenvolvendo minha escrita de có
 ### Hard Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,css,git,html,ps,vscode,windows&perline=5&theme=dark)](https://skillicons.dev)
 
+---
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos em destaque:
 
 * **[💈 NAVØR Barbearia](https://github.com/enzodrida/NAVOR_Barbearia)**  
   Projeto acadêmico de desenvolvimento web, realizado em equipe. O objetivo é criar um site para uma barbearia, com páginas de serviços, agendamento, contato e outras informações para clientes.  
