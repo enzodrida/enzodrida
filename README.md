@@ -28,3 +28,9 @@ Os projetos estão em evolução, assim como meu aprendizado.
 ### Conquistas do meu desenvolvimento:
 
 ![Trofeus](https://trophygithubreadmelang.cybee.dpdns.org/?username=enzodrida&theme=dark_lover)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
