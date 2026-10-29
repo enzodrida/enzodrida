@@ -32,5 +32,5 @@ Os projetos estão em evolução, assim como meu aprendizado.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/enzodrida/enzodrida/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
