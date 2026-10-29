@@ -1,6 +1,8 @@
 ![Meu banner](banner.svg)
 
-[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Desenvolvedor+em+desenvolvimento%3BHTML+%7C+CSS+%7C+C%3BConhecimento+diar%C3%ADo&layout=terminal&center=true&color=8c2830)](https://github.com/dhanushnehru/ScribeSVG)
+### Quem sou eu ?
+
+Desenvolvedor de software em desenvolvimento, desenvolvendo minha escrita de código de uma forma limpa e no tempo livre crio projetos funcionais com intuito de desenvolver os conhecimentos que eu já tenho e evoluir focado na criação de soluções eficientes. Aprendizado contínuo, desenvolvendo minhas habilidades para novas oportunidades e + projetos desafiadores kkkk, sempre agregarei valor a sua equipe.
 
 ### Hard Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,css,git,html,ps,vscode,windows&perline=5&theme=dark)](https://skillicons.dev)
