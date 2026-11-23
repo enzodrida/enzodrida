@@ -5,7 +5,7 @@ Desenvolvedor de software em desenvolvimento, desenvolvendo minha escrita de có
 
 ---
 ### Hard Skills:
-[![My Skills](https://skillicons.dev/icons?i=c,css,git,html,ps,vscode,windows&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,git,html,ps,vscode,windows,php&perline=5&theme=dark)](https://skillicons.dev)
 
 ---
 
